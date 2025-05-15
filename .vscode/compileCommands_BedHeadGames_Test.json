@@ -1,0 +1,58 @@
+[
+	{
+		"file": "E:\\Unreal Engine Projects\\BedHeadGames_Test\\Source\\BedHeadGames_Test\\BedHeadGames_Test.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine Projects\\BedHeadGames_Test\\.vscode\\compileCommands_BedHeadGames_Test\\BedHeadGames_Test.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine Projects\\BedHeadGames_Test\\Source\\BedHeadGames_Test\\BedHeadGames_Test.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine Projects\\BedHeadGames_Test\\.vscode\\compileCommands_BedHeadGames_Test\\BedHeadGames_Test.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine Projects\\BedHeadGames_Test\\Source\\BedHeadGames_Test\\BedHeadGames_Test.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine Projects\\BedHeadGames_Test\\.vscode\\compileCommands_BedHeadGames_Test\\BedHeadGames_Test.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine Projects\\BedHeadGames_Test\\Source\\BedHeadGames_Test\\BedHeadGames_TestCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine Projects\\BedHeadGames_Test\\.vscode\\compileCommands_BedHeadGames_Test\\BedHeadGames_Test.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine Projects\\BedHeadGames_Test\\Source\\BedHeadGames_Test\\BedHeadGames_TestCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine Projects\\BedHeadGames_Test\\.vscode\\compileCommands_BedHeadGames_Test\\BedHeadGames_Test.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine Projects\\BedHeadGames_Test\\Source\\BedHeadGames_Test\\BedHeadGames_TestGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine Projects\\BedHeadGames_Test\\.vscode\\compileCommands_BedHeadGames_Test\\BedHeadGames_Test.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine Projects\\BedHeadGames_Test\\Source\\BedHeadGames_Test\\BedHeadGames_TestGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine Projects\\BedHeadGames_Test\\.vscode\\compileCommands_BedHeadGames_Test\\BedHeadGames_Test.1.rsp"
+		],
+		"directory": "E:\\UE_5.5\\Engine\\Source"
+	}
+]
